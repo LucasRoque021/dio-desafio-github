@@ -6,4 +6,5 @@ Comandos básicos do git bash:
 - git init: inicializa um repositório git na pasta local.
 - git status: mostra o estado dos arquivos (untracked, staged).
 - git add .: adiciona arquivos untracked e modified e paginas na staging 	     area, local onde os arquivos poderão ser commitados.
-- git commit -m "mensagem sobre o que foi modificado no repositório": salva 	     uma versão do código, esse comando irá transferir os arquivos              modificados da staging area para o local repository. 
+- git commit -m "mensagem sobre o que foi modificado no repositório": salva 	     uma versão do código, esse comando irá transferir os arquivos              modificados da staging area para o local repository.
+- git clear: Limpa as linhas de comando do bash. 
