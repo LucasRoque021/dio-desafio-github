@@ -1,0 +1,7 @@
+
+O git bash é o console para o git.
+
+Comandos básicos do git bash:
+
+- git init: inicializa um repositório git na pasta local
+- git add .: adiciona arquivos untracked e modified e paginas na staging 	     area, local onde os arquivos poderão ser commitados.
