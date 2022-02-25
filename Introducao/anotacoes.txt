@@ -8,3 +8,11 @@ Comandos básicos do git bash:
 - git add .: adiciona arquivos untracked e modified e paginas na staging 	     area, local onde os arquivos poderão ser commitados.
 - git commit -m "mensagem sobre o que foi modificado no repositório": salva 	     uma versão do código, esse comando irá transferir os arquivos              modificados da staging area para o local repository.
 - git clear: Limpa as linhas de comando do bash. 
+
+
+
+Comandos relacionados ao github:
+
+- git remote add origin http://github/LucasRoque021/https://github.com/LucasRoque021/dio-desafio-github.git: cria um repositorio remoto no github.
+- git push -u origin master: "empurra" os commits feitos localmente para o 			      repositório do github.
+-git clone <url do repositorio github>: fará o "download" do repositório 					github para o seu computador.
